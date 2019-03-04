@@ -1,13 +1,13 @@
 {
-  "id": "tweetdeck",
-  "name": "Tweetdeck",
-  "version": "1.0.2",
-  "description": "Tweetdeck",
+  "id": "franz-recipe-misskey",
+  "name": "MissKey",
+  "version": "0.0.1",
+  "description": "MissKey recipe for Franz",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Adrián Mora <amora@adrianmora.me>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://tweetdeck.twitter.com/",
+    "serviceURL": "https://misskey.xyz/",
     "hasNotificationSound": true
   }
 }
